@@ -3,10 +3,7 @@
 
 Alumno: Martín Hunziker
 
-Versión Preliminar: Se trabajó sobre la base del TP de ejemplo de Dani Bosch. Se realizaron algunas adecuaciones necesarias por la actualización de la librería Spacy.
+Se trabajó sobre la base del TP de ejemplo de Dani Bosch. Se realizaron algunas adecuaciones necesarias por la actualización de la librería Spacy y se desarrolló el clustering utilizando Word2Vec
 
-<u>En desarrollo</u>:
 
-1) Utilizar embeding para extraer nuevos atributos
-2) Ajustar la representación de los colores de los cluster
 
